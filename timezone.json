@@ -1,0 +1,1736 @@
+[{
+    "_id": {
+      "$oid": "65a77381e600e2569fa043dc"
+    },
+    "zone_name": "Asia/Kabul",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043dd"
+    },
+    "zone_name": "Europe/Tirane",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043de"
+    },
+    "zone_name": "Africa/Algiers",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043df"
+    },
+    "zone_name": "Europe/Andorra",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e0"
+    },
+    "zone_name": "Africa/Luanda",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e1"
+    },
+    "zone_name": "America/Antigua",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e2"
+    },
+    "zone_name": "America/Argentina/Buenos_Aires",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e3"
+    },
+    "zone_name": "America/Argentina/Cordoba",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e4"
+    },
+    "zone_name": "America/Argentina/Salta",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e5"
+    },
+    "zone_name": "Asia/Yerevan",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e6"
+    },
+    "zone_name": "Australia/Sydney",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e7"
+    },
+    "zone_name": "Australia/Melbourne",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e8"
+    },
+    "zone_name": "Australia/Brisbane",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043e9"
+    },
+    "zone_name": "Europe/Vienna",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ea"
+    },
+    "zone_name": "Asia/Baku",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043eb"
+    },
+    "zone_name": "America/Nassau",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ec"
+    },
+    "zone_name": "Asia/Bahrain",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ed"
+    },
+    "zone_name": "Asia/Dhaka",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ee"
+    },
+    "zone_name": "America/Barbados",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ef"
+    },
+    "zone_name": "Europe/Minsk",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f0"
+    },
+    "zone_name": "Europe/Brussels",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f1"
+    },
+    "zone_name": "America/Belize",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f2"
+    },
+    "zone_name": "Africa/Porto-Novo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f3"
+    },
+    "zone_name": "Asia/Thimphu",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f4"
+    },
+    "zone_name": "America/La_Paz",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f5"
+    },
+    "zone_name": "Europe/Sarajevo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f6"
+    },
+    "zone_name": "Africa/Gaborone",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f7"
+    },
+    "zone_name": "America/Sao_Paulo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f8"
+    },
+    "zone_name": "America/Rio_Branco",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043f9"
+    },
+    "zone_name": "America/Manaus",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043fa"
+    },
+    "zone_name": "Asia/Brunei",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043fb"
+    },
+    "zone_name": "Europe/Sofia",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043fc"
+    },
+    "zone_name": "Africa/Ouagadougou",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043fd"
+    },
+    "zone_name": "Africa/Bujumbura",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043fe"
+    },
+    "zone_name": "Atlantic/Cape_Verde",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa043ff"
+    },
+    "zone_name": "Asia/Phnom_Penh",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04400"
+    },
+    "zone_name": "Africa/Douala",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04401"
+    },
+    "zone_name": "America/Toronto",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04402"
+    },
+    "zone_name": "America/Vancouver",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04403"
+    },
+    "zone_name": "America/Edmonton",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04404"
+    },
+    "zone_name": "Africa/Bangui",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04405"
+    },
+    "zone_name": "Africa/Ndjamena",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04406"
+    },
+    "zone_name": "America/Santiago",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04407"
+    },
+    "zone_name": "Asia/Shanghai",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04408"
+    },
+    "zone_name": "Asia/Urumqi",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04409"
+    },
+    "zone_name": "America/Bogota",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440a"
+    },
+    "zone_name": "Indian/Comoro",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440b"
+    },
+    "zone_name": "Africa/Brazzaville",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440c"
+    },
+    "zone_name": "America/Costa_Rica",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440d"
+    },
+    "zone_name": "Africa/Abidjan",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440e"
+    },
+    "zone_name": "Europe/Zagreb",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0440f"
+    },
+    "zone_name": "America/Havana",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04410"
+    },
+    "zone_name": "Asia/Nicosia",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04411"
+    },
+    "zone_name": "Europe/Prague",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04412"
+    },
+    "zone_name": "Africa/Kinshasa",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04413"
+    },
+    "zone_name": "Africa/Lubumbashi",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04414"
+    },
+    "zone_name": "Europe/Copenhagen",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04415"
+    },
+    "zone_name": "Africa/Djibouti",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04416"
+    },
+    "zone_name": "America/Dominica",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04417"
+    },
+    "zone_name": "America/Santo_Domingo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04418"
+    },
+    "zone_name": "Asia/Dili",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04419"
+    },
+    "zone_name": "America/Guayaquil",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441a"
+    },
+    "zone_name": "America/Quito",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441b"
+    },
+    "zone_name": "Africa/Cairo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441c"
+    },
+    "zone_name": "America/El_Salvador",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441d"
+    },
+    "zone_name": "Africa/Malabo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441e"
+    },
+    "zone_name": "Africa/Asmara",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0441f"
+    },
+    "zone_name": "Europe/Tallinn",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04420"
+    },
+    "zone_name": "Africa/Mbabane",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04421"
+    },
+    "zone_name": "Africa/Addis_Ababa",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04422"
+    },
+    "zone_name": "Pacific/Fiji",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04423"
+    },
+    "zone_name": "Europe/Helsinki",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04424"
+    },
+    "zone_name": "Europe/Paris",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04425"
+    },
+    "zone_name": "Africa/Libreville",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04426"
+    },
+    "zone_name": "Africa/Banjul",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04427"
+    },
+    "zone_name": "Asia/Tbilisi",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04428"
+    },
+    "zone_name": "Europe/Berlin",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04429"
+    },
+    "zone_name": "Africa/Accra",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442a"
+    },
+    "zone_name": "Europe/Athens",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442b"
+    },
+    "zone_name": "America/Grenada",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442c"
+    },
+    "zone_name": "America/Guatemala",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442d"
+    },
+    "zone_name": "Africa/Conakry",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442e"
+    },
+    "zone_name": "Africa/Bissau",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0442f"
+    },
+    "zone_name": "America/Guyana",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04430"
+    },
+    "zone_name": "America/Port-au-Prince",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04431"
+    },
+    "zone_name": "America/Tegucigalpa",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04432"
+    },
+    "zone_name": "Europe/Budapest",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04433"
+    },
+    "zone_name": "Atlantic/Reykjavik",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04434"
+    },
+    "zone_name": "Asia/Kolkata",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04435"
+    },
+    "zone_name": "Asia/Jakarta",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04436"
+    },
+    "zone_name": "Asia/Makassar",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04437"
+    },
+    "zone_name": "Asia/Tehran",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04438"
+    },
+    "zone_name": "Asia/Baghdad",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04439"
+    },
+    "zone_name": "Europe/Dublin",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443a"
+    },
+    "zone_name": "Asia/Jerusalem",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443b"
+    },
+    "zone_name": "Europe/Rome",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443c"
+    },
+    "zone_name": "America/Jamaica",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443d"
+    },
+    "zone_name": "Asia/Tokyo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443e"
+    },
+    "zone_name": "Asia/Amman",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0443f"
+    },
+    "zone_name": "Asia/Almaty",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04440"
+    },
+    "zone_name": "Asia/Aqtau",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04441"
+    },
+    "zone_name": "Africa/Nairobi",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04442"
+    },
+    "zone_name": "Pacific/Tarawa",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04443"
+    },
+    "zone_name": "Asia/Kuwait",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04444"
+    },
+    "zone_name": "Asia/Bishkek",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04445"
+    },
+    "zone_name": "Asia/Vientiane",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04446"
+    },
+    "zone_name": "Europe/Riga",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04447"
+    },
+    "zone_name": "Asia/Beirut",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04448"
+    },
+    "zone_name": "Africa/Maseru",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04449"
+    },
+    "zone_name": "Africa/Monrovia",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444a"
+    },
+    "zone_name": "Africa/Tripoli",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444b"
+    },
+    "zone_name": "Europe/Vaduz",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444c"
+    },
+    "zone_name": "Europe/Vilnius",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444d"
+    },
+    "zone_name": "Europe/Luxembourg",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444e"
+    },
+    "zone_name": "Indian/Antananarivo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0444f"
+    },
+    "zone_name": "Africa/Blantyre",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04450"
+    },
+    "zone_name": "Asia/Kuala_Lumpur",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04451"
+    },
+    "zone_name": "Asia/Kuching",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04452"
+    },
+    "zone_name": "Indian/Maldives",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04453"
+    },
+    "zone_name": "Africa/Bamako",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04454"
+    },
+    "zone_name": "Europe/Malta",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04455"
+    },
+    "zone_name": "Pacific/Majuro",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04456"
+    },
+    "zone_name": "Africa/Nouakchott",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04457"
+    },
+    "zone_name": "Indian/Mauritius",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04458"
+    },
+    "zone_name": "America/Mexico_City",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04459"
+    },
+    "zone_name": "America/Cancun",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445a"
+    },
+    "zone_name": "Pacific/Chuuk",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445b"
+    },
+    "zone_name": "Pacific/Pohnpei",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445c"
+    },
+    "zone_name": "Pacific/Yap",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445d"
+    },
+    "zone_name": "Europe/Chisinau",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445e"
+    },
+    "zone_name": "Europe/Monaco",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0445f"
+    },
+    "zone_name": "Asia/Ulaanbaatar",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04460"
+    },
+    "zone_name": "Europe/Podgorica",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04461"
+    },
+    "zone_name": "Africa/Casablanca",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04462"
+    },
+    "zone_name": "Africa/Maputo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04463"
+    },
+    "zone_name": "Asia/Yangon",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04464"
+    },
+    "zone_name": "Africa/Windhoek",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04465"
+    },
+    "zone_name": "Pacific/Nauru",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04466"
+    },
+    "zone_name": "Asia/Kathmandu",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04467"
+    },
+    "zone_name": "Europe/Amsterdam",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04468"
+    },
+    "zone_name": "Pacific/Auckland",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04469"
+    },
+    "zone_name": "Pacific/Chatham",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446a"
+    },
+    "zone_name": "America/Managua",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446b"
+    },
+    "zone_name": "Africa/Niamey",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446c"
+    },
+    "zone_name": "Africa/Lagos",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446d"
+    },
+    "zone_name": "Asia/Pyongyang",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446e"
+    },
+    "zone_name": "Europe/Skopje",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0446f"
+    },
+    "zone_name": "Europe/Oslo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04470"
+    },
+    "zone_name": "Asia/Muscat",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04471"
+    },
+    "zone_name": "Asia/Karachi",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04472"
+    },
+    "zone_name": "Pacific/Palau",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04473"
+    },
+    "zone_name": "America/Panama",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04474"
+    },
+    "zone_name": "Pacific/Port_Moresby",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04475"
+    },
+    "zone_name": "America/Asuncion",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04476"
+    },
+    "zone_name": "America/Lima",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04477"
+    },
+    "zone_name": "Asia/Manila",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04478"
+    },
+    "zone_name": "Europe/Warsaw",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04479"
+    },
+    "zone_name": "Europe/Lisbon",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447a"
+    },
+    "zone_name": "Asia/Qatar",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447b"
+    },
+    "zone_name": "Europe/Bucharest",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447c"
+    },
+    "zone_name": "Europe/Moscow",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447d"
+    },
+    "zone_name": "Asia/Yekaterinburg",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447e"
+    },
+    "zone_name": "Asia/Omsk",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0447f"
+    },
+    "zone_name": "Africa/Kigali",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04480"
+    },
+    "zone_name": "America/St_Kitts",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04481"
+    },
+    "zone_name": "America/St_Lucia",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04482"
+    },
+    "zone_name": "America/St_Vincent",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04483"
+    },
+    "zone_name": "Pacific/Apia",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04484"
+    },
+    "zone_name": "Europe/San_Marino",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04485"
+    },
+    "zone_name": "Africa/Sao_Tome",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04486"
+    },
+    "zone_name": "Asia/Riyadh",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04487"
+    },
+    "zone_name": "Africa/Dakar",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04488"
+    },
+    "zone_name": "Europe/Belgrade",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04489"
+    },
+    "zone_name": "Indian/Mahe",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448a"
+    },
+    "zone_name": "Africa/Freetown",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448b"
+    },
+    "zone_name": "Asia/Singapore",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448c"
+    },
+    "zone_name": "Europe/Bratislava",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448d"
+    },
+    "zone_name": "Europe/Ljubljana",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448e"
+    },
+    "zone_name": "Pacific/Guadalcanal",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0448f"
+    },
+    "zone_name": "Africa/Mogadishu",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04490"
+    },
+    "zone_name": "Africa/Johannesburg",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04491"
+    },
+    "zone_name": "Asia/Seoul",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04492"
+    },
+    "zone_name": "Africa/Juba",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04493"
+    },
+    "zone_name": "Europe/Madrid",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04494"
+    },
+    "zone_name": "Asia/Colombo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04495"
+    },
+    "zone_name": "Africa/Khartoum",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04496"
+    },
+    "zone_name": "America/Paramaribo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04497"
+    },
+    "zone_name": "Europe/Stockholm",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04498"
+    },
+    "zone_name": "Europe/Zurich",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa04499"
+    },
+    "zone_name": "Asia/Damascus",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449a"
+    },
+    "zone_name": "Asia/Taipei",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449b"
+    },
+    "zone_name": "Asia/Dushanbe",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449c"
+    },
+    "zone_name": "Africa/Dar_es_Salaam",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449d"
+    },
+    "zone_name": "Asia/Bangkok",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449e"
+    },
+    "zone_name": "Africa/Lome",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa0449f"
+    },
+    "zone_name": "Pacific/Tongatapu",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a0"
+    },
+    "zone_name": "America/Port_of_Spain",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a1"
+    },
+    "zone_name": "Africa/Tunis",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a2"
+    },
+    "zone_name": "Europe/Istanbul",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a3"
+    },
+    "zone_name": "Asia/Ashgabat",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a4"
+    },
+    "zone_name": "Pacific/Funafuti",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a5"
+    },
+    "zone_name": "Africa/Kampala",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a6"
+    },
+    "zone_name": "Europe/Kiev",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a7"
+    },
+    "zone_name": "Asia/Dubai",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a8"
+    },
+    "zone_name": "Europe/London",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044a9"
+    },
+    "zone_name": "America/New_York",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77381e600e2569fa044aa"
+    },
+    "zone_name": "America/Los_Angeles",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044ab"
+    },
+    "zone_name": "America/Chicago",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044ac"
+    },
+    "zone_name": "America/Montevideo",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044ad"
+    },
+    "zone_name": "Asia/Tashkent",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044ae"
+    },
+    "zone_name": "Pacific/Efate",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044af"
+    },
+    "zone_name": "Europe/Vatican",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044b0"
+    },
+    "zone_name": "America/Caracas",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044b1"
+    },
+    "zone_name": "Asia/Ho_Chi_Minh",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044b2"
+    },
+    "zone_name": "Asia/Aden",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044b3"
+    },
+    "zone_name": "Africa/Lusaka",
+    "countryId": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a77382e600e2569fa044b4"
+    },
+    "zone_name": "Africa/Harare",
+    "countryId": null,
+    "__v": 0
+  }]
