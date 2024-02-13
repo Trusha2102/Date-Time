@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Interaction</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>API Interaction</h1>
+        <div class="selection-buttons">
+            <button class="time-between" onclick="showtime()">Time Between</button>
+            <button class="add-time" onclick="showdate()">Add/Subtract Time</button>
+        </div>
+        <div class="time-lower-section" id="timeBetweenSection">
+            <div class="date-choicing">
+                <div class="start-date">
+                    <label for="start">Start Time/Date:</label>
+                    <input type="text" id="start" name="start" placeholder="YYYY-MM-DD">
+                </div>
+                <div class="end-date">
+                    <label for="end">End Time/Date:</label>
+                    <input type="text" id="end" name="end" placeholder="YYYY-MM-DD">
+                </div>
+            </div>
+            <button onclick="getTimeBetween()">Get Time Between</button>
+            <div id="timeBetweenResult"></div>
+        </div>
+
+        <div class="add-substract-lower-section" id="add-substract-lower-section">
+            <div class="upper-class">
+                <div class="time-date data">
+                    <label for="time">Time/Date:</label>
+                    <input type="text" id="time" name="time" placeholder="YYYY-MM-DD or HH:mm">
+                </div>
+                <div class="unit data">
+                    <label for="unit">Unit:</label>
+                    <select id="unit" name="unit">
+                        <option value="days">Days</option>
+                        <option value="hours">Hours</option>
+                        <option value="minutes">Minutes</option>
+                    </select>
+                </div>
+                <div class="operation data">
+                    <label for="operation">Operation:</label>
+                    <select id="operation" name="operation">
+                        <option value="Add">Add</option>
+                        <option value="Subtract">Subtract</option>
+                    </select>
+                </div>
+                <div class="value data">
+                    <label for="value">Value:</label>
+                    <input type="number" id="value" name="value" min="1">
+                </div>
+            </div>
+            <button onclick="addSubtractTime()">Add/Subtract Time</button>
+            <div id="addSubtractResult"></div>
+        </div>
+        <div class="convert-utc">
+            <h2>Convert Time to UTC</h2>
+            <label for="timeToConvert">Time to Convert:</label>
+            <input type="text" id="timeToConvert" name="timeToConvert" placeholder="YYYY-MM-DDTHH:mm:ssTZD">
+            <button onclick="convertToUTC()">Convert to UTC</button>
+            <div id="convertToUTCResult"></div>
+        </div>
+    </div>
+
+    <script>
+        // WebSocket connection
+        const ws = new WebSocket('ws://localhost:8080');
+
+        // WebSocket event listener for incoming messages
+        ws.addEventListener('message', function (event) {
+            console.log('Received message:', event.data);
+
+            try {
+                // Parse the received JSON data
+                const result = JSON.parse(event.data);
+
+                // Check if the received data is for the "time-between" API
+                if (result.hasOwnProperty('days') && result.hasOwnProperty('hours') && result.hasOwnProperty('minutes') && result.hasOwnProperty('seconds')) {
+                    // Display the result in the appropriate HTML element
+                    const timeBetweenResult = document.getElementById('timeBetweenResult');
+                    timeBetweenResult.innerHTML = `<p>Days: ${result.days}</p>
+                                                   <p>Hours: ${result.hours}</p>
+                                                   <p>Minutes: ${result.minutes}</p>
+                                                   <p>Seconds: ${result.seconds}</p>`;
+                } else {
+                    console.error('Invalid data received from server:', result);
+                }
+            } catch (error) {
+                console.error('Error parsing received message:', error);
+            }
+        });
+
+
+        async function getTimeBetween() {
+            const start = document.getElementById('start').value;
+            const end = document.getElementById('end').value;
+            const payload = { api: 'time-between', payload: { start, end } };
+            // Send WebSocket message with the payload
+            ws.send(JSON.stringify(payload));
+        }
+
+        async function addSubtractTime() {
+            const time = document.getElementById('time').value;
+            const unit = document.getElementById('unit').value;
+            const value = document.getElementById('value').value;
+            const operation = document.getElementById('operation').value;
+            const payload = { api: 'add-subtract', payload: { time, unit, value, operation } };
+            // Send WebSocket message with the payload
+            ws.send(JSON.stringify(payload));
+        }
+
+        async function convertToUTC() {
+            const time = document.getElementById('timeToConvert').value;
+            const payload = { api: 'convert', payload: { time } };
+            // Send WebSocket message with the payload
+            ws.send(JSON.stringify(payload));
+        }
+
+        function showtime() {
+            document.getElementById('timeBetweenSection').style.display = "flex";
+            document.getElementById('add-substract-lower-section').style.display = "none";
+        }
+        function showdate() {
+            document.getElementById('timeBetweenSection').style.display = "none";
+            document.getElementById('add-substract-lower-section').style.display = "flex";
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    color: #007EE5;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 120px 0;
+
+    h1 {
+        font-size: 35px;
+        margin: 20px 0;
+    }
+
+    .selection-buttons {
+        display: flex;
+        border: 1px solid #007EE5;
+        border-radius: 5px;
+        padding: 10px 30px;
+
+        h2 {
+            margin-left: 20px;
+        }
+
+        button {
+            color: #007EE5;
+            padding: 5px 80px;
+            font-size: 20px;
+            margin: 0 10px;
+            background: none;
+            outline: none;
+            border: none;
+            cursor: pointer;
+        }
+        button:focus{
+            background: #007EE5;
+            border-radius: 5px;
+            color: #fff;
+            transition: 0.5s ease-in;
+        }
+
+    }
+
+    .time-lower-section {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        margin: 25px 0;
+        .date-choicing{
+            display: flex;
+            margin: 10px 0 30px;
+        }
+        .start-date, .end-date{
+            display: flex;
+            flex-direction: column;
+            margin: 0 20px;
+            input{
+                padding: 15px 30px;
+                font-size: 20px;
+                border: 1px solid #007EE5;
+            }
+        }
+        button{
+            background: #007EE5;
+            color: #fff;
+            padding: 10px 30px;
+            border: none;
+            font-weight: 700;
+            font-size: 18px;
+        }
+        #timeBetweenResult{
+            margin: 50px 0;
+            height: 100px;
+            width: 100%;
+            border: 1px solid #000;
+            border-radius: 5px;
+        }
+    }
+
+    .add-substract-lower-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .upper-class{
+            display: flex;
+            justify-content: space-between;
+            margin: 30px 0;
+        }
+        .data{
+            display: flex;
+            flex-direction: column;
+            margin: 0 20px;
+            font-size: 18px;
+            select{
+                padding: 10px 15px;
+                margin: 10px 0;
+                font-size: 15px;
+            }
+            input{
+                margin: 10px 0;
+                padding: 15px 30px;
+                font-size: 15px;
+            }
+        }
+        button{
+            background: #007EE5;
+            color: #fff;
+            padding: 10px 30px;
+            border: none;
+            font-weight: 700;
+            font-size: 18px;
+        }
+        #addSubtractResult{
+            margin: 50px 0;
+            height: 100px;
+            width: 100%;
+            border: 1px solid #000;
+            border-radius: 5px;
+        }
+    }
+
+    .convert-utc {
+        display: none;
+    }
+}
